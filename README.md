@@ -1,5 +1,10 @@
-- Hello👋 I’m @kreatar
-- 
+Hello👋 I’m @kreatar
+
+I am a Full Stack Developer from India. I am working as a Presentation Designer at Williams Lea India.
+
+Currently I'm learning
+![image](https://github.com/kreatar/kreatar/assets/152143150/ed747fa1-5091-44c2-8151-d9f26bcba5e3)
+
 
 
 <!---
