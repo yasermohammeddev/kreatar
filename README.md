@@ -4,12 +4,7 @@ I am a Full Stack Developer from India. I am working as a Presentation Designer 
 
 Currently I'm learning
 
-![image](https://github.com/kreatar/kreatar/assets/152143150/942ff375-af7a-4da1-9b53-a1a3df7dc5ae)
-![image](https://github.com/kreatar/kreatar/assets/152143150/ed747fa1-5091-44c2-8151-d9f26bcba5e3) 
+![image](https://github.com/kreatar/kreatar/assets/152143150/8f6bc9cf-50ec-4e55-b9d3-d45329b1c1fd)
+![image](https://github.com/kreatar/kreatar/assets/152143150/be87e5bb-2e10-48af-8cd6-99665677945f)
 
 
-
-<!---
-kreatar/kreatar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
