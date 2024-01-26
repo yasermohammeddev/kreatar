@@ -4,4 +4,4 @@ I am a Full Stack Developer from India. I am working as a Presentation Designer 
 
 Currently I'm learning
 
-HTML, CSS, JavaScript, TypeScript, MySQL, MongoDB, Express.js, React.js, Node.js, Git, GitHub, Docker, Kubernetes, AWS.
+HTML, CSS, JavaScript, TypeScript, MySQL, MongoDB, Express.js, React.js, Node.js, Git, GitHub.
